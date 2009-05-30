@@ -21,13 +21,13 @@
 #define VERSION_H
 
 // Legacy define. Present since 1.x.
-#define QPE_VERSION "4.4.3"
+#define QPE_VERSION "4.5.0"
 
 // These are the preferred defines. Present since 4.3.0.
-#define QTOPIA_VERSION_STR "4.4.3"
+#define QTOPIA_VERSION_STR "4.5.0"
 #define QTOPIA_VERSION 0x040403
 
 // Single version or range, e.g. "4.4.0-4.4.3"
-#define QTOPIA_COMPATIBLE_VERSIONS "4.4.0-4.4.3"
+#define QTOPIA_COMPATIBLE_VERSIONS "4.4.0-4.5.0"
 
 #endif
