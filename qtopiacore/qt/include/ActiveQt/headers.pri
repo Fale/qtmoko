@@ -1,2 +1,2 @@
-SYNCQT.HEADER_FILES = ../../../../../../../../../../../../../../../include/ActiveQt/ActiveQt 
-SYNCQT.HEADER_CLASSES = 
+SYNCQT.HEADER_FILES = qaxbase.h qaxselect.h qaxwidget.h qaxscript.h qaxobject.h qaxbindable.h qaxaggregated.h qaxfactory.h qaxtypes.h ../../../../../../../../../../../../../../../../../../../../../../../include/ActiveQt/ActiveQt 
+SYNCQT.HEADER_CLASSES = ../../../include/ActiveQt/QAxBase ../../../include/ActiveQt/QAxSelect ../../../include/ActiveQt/QAxWidget ../../../include/ActiveQt/QAxScriptEngine ../../../include/ActiveQt/QAxScript ../../../include/ActiveQt/QAxScriptManager ../../../include/ActiveQt/QAxObject ../../../include/ActiveQt/QAxBindable ../../../include/ActiveQt/QAxAggregated ../../../include/ActiveQt/QAxFactory ../../../include/ActiveQt/QAxClass 

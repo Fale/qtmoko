@@ -1,1 +1,1 @@
-#include "/home/radek/qte/build/sdk/qtopiacore/qconfig-qpe.h"
+#include "/home/fale/Documents/qtmoko/build45/sdk/qtopiacore/qconfig-qpe.h"

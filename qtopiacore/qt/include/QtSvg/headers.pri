@@ -1,2 +1,2 @@
-SYNCQT.HEADER_FILES = qgraphicssvgitem.h qsvggenerator.h qsvgrenderer.h qsvgwidget.h ../../include/QtSvg/QtSvg 
-SYNCQT.HEADER_CLASSES = ../../include/QtSvg/QGraphicsSvgItem ../../include/QtSvg/QSvgGenerator ../../include/QtSvg/QSvgRenderer ../../include/QtSvg/QSvgWidget 
+SYNCQT.HEADER_FILES = qsvgwidget.h qsvgrenderer.h qsvggenerator.h qgraphicssvgitem.h ../../include/QtSvg/QtSvg 
+SYNCQT.HEADER_CLASSES = ../../include/QtSvg/QSvgWidget ../../include/QtSvg/QSvgRenderer ../../include/QtSvg/QSvgGenerator ../../include/QtSvg/QGraphicsSvgItem 
